@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assassin's Creed - History & Lore</title>
+    <link rel="stylesheet" href="assassins-creed.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://www.nicepng.com/png/full/141-1410162_assassins-creed-symbol-logo-comments-assassins-creed-logo.png" alt="Assassin's Creed Logo" class="logo-image">
+            <div class="logo-text">
+                <h1>ASSASSIN'S CREED</h1>
+                <p class="tagline">Nothing is True, Everything is Permitted</p>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#history">History</a></li>
+                <li><a href="#lore">Lore</a></li>
+                <li><a href="#games">Games</a></li>
+                <li><a href="#characters">Characters</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="hero">
+            <h2>WELCOME TO THE BROTHERHOOD</h2>
+            <p>Discover the thousand-year conflict between the Assassins and the Templars</p>
+            <button class="cta-button">Explore the Lore</button>
+        </section>
+        
+        <section id="history">
+            <h2>📜 Franchise History</h2>
+            <div class="content-block">
+                <h3>The Birth of a Legend</h3>
+                <p>Assassin's Creed is an action-adventure video game series developed by Ubisoft. The first game was released in 2007, introducing players to the concept of genetic memory and the eternal struggle between the Assassin Brotherhood and the Knights Templar.</p>
+                
+                <h3>Evolution of the Series</h3>
+                <p>Since its inception, the franchise has grown to include over 20 main games, numerous spin-offs, comics, novels, and even a film adaptation. The series is known for its historical settings, immersive storytelling, and innovative gameplay mechanics including parkour, stealth, and combat.</p>
+                
+                <h3>Key Milestones</h3>
+                <ul>
+                    <li><strong>2007:</strong> Assassin's Creed - The beginning of the journey in Third Crusade-era Jerusalem</li>
+                    <li><strong>2009:</strong> Assassin's Creed II - Introduction of Ezio Auditore, widely considered one of the best stories in gaming</li>
+                    <li><strong>2012:</strong> Assassin's Creed III - The American Revolution</li>
+                    <li><strong>2017:</strong> Assassin's Creed Origins - A complete overhaul with RPG elements in Ancient Egypt</li>
+                    <li><strong>2020:</strong> Assassin's Creed Valhalla - Viking era exploration</li>
+                    <li><strong>2023:</strong> Assassin's Creed Mirage - Return to roots</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section id="lore">
+            <h2>📖 The Lore</h2>
+            <div class="lore-sections">
+                <div class="lore-block">
+                    <h3>🗡️ The Assassins</h3>
+                    <p>The Assassin Brotherhood is a clandestine organization dedicated to maintaining freedom and preventing the Templars from achieving total control over humanity. Their philosophy is built on three core principles:</p>
+                    <ul>
+                        <li><strong>Stay Your Blade from the Flesh of the Innocent</strong></li>
+                        <li><strong>Hide in Plain Sight</strong></li>
+                        <li><strong>Never Compromise the Brotherhood</strong></li>
+                    </ul>
+                </div>
+                
+                <div class="lore-block">
+                    <h3>⚔️ The Templars</h3>
+                    <p>The Knights Templar, also known as the Order of the Ancients in earlier times, seek to control humanity through order and peace. They believe that freedom leads to chaos and that humanity needs guidance. Their goal is to create a perfect world through control and manipulation.</p>
+                </div>
+                
+                <div class="lore-block">
+                    <h3>🔮 The Pieces of Eden</h3>
+                    <p>The Pieces of Eden are ancient artifacts created by the Isu (First Civilization) before humanity existed. These powerful devices can control human minds, grant immortality, and influence events throughout history. Both Assassins and Templars seek these artifacts for their immense power.</p>
+                    <p>Some known Pieces of Eden include:</p>
+                    <ul>
+                        <li><strong>Apple of Eden</strong> - Controls human minds</li>
+                        <li><strong>Staff of Eden</strong> - Controls the weather and people</li>
+                        <li><strong>Sword of Eden</strong> - Grants immense power</li>
+                        <li><strong>Shroud of Eden</strong> - Can heal wounds</li>
+                    </ul>
+                </div>
+                
+                <div class="lore-block">
+                    <h3>🧬 Genetic Memory & Animus</h3>
+                    <p>Genetic Memory is a form of inherited memory stored in DNA that allows descendants to relive the memories of their ancestors. The Animus is a machine developed by Abstergo (modern-day Templars) that allows users to view these genetic memories. It projects the user into a virtual simulation of their ancestor's life.</p>
+                    <p>Later versions of the Animus allowed for:</p>
+                    <ul>
+                        <li>Synchronization with multiple ancestors</li>
+                        <li>Projection into the "Grey" - a digital space</li>
+                        <li>Manipulation of genetic memories</li>
+                        <li>Access to "Bleeding Effect" - retaining skills from ancestors</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section id="games">
+            <h2>🎮 Main Games</h2>
+            <div class="games-grid">
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #1a1a2e, #16213e);">
+                        <span style="font-size: 3rem;">🏰</span>
+                    </div>
+                    <h3>Assassin's Creed</h3>
+                    <p>Third Crusade - Follow Altaïr ibn La-Ahad as he seeks redemption in Jerusalem, Damascus, and Acre.</p>
+                    <span class="game-year">2007</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #2c1810, #8b4513);">
+                        <span style="font-size: 3rem;">⚔️</span>
+                    </div>
+                    <h3>Assassin's Creed II</h3>
+                    <p>Renaissance Italy - Follow Ezio Auditore's journey from nobleman to Master Assassin.</p>
+                    <span class="game-year">2009</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #4a0e0e, #8b0000);">
+                        <span style="font-size: 3rem;">🏛️</span>
+                    </div>
+                    <h3>Assassin's Creed: Brotherhood</h3>
+                    <p>Renaissance Rome - Ezio fights to liberate Rome and takes his fight to the Borgia.</p>
+                    <span class="game-year">2010</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #1a3a1a, #228b22);">
+                        <span style="font-size: 3rem;">🕌</span>
+                    </div>
+                    <h3>Assassin's Creed: Revelations</h3>
+                    <p>Constantinople - Ezio uncovers Altaïr's legacy in the Ottoman Empire.</p>
+                    <span class="game-year">2011</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #2d4a2d, #3d5c3d);">
+                        <span style="font-size: 3rem;">🦅</span>
+                    </div>
+                    <h3>Assassin's Creed III</h3>
+                    <p>American Revolution - Play as Connor (Ratonhnhaké:ton) during the founding of America.</p>
+                    <span class="game-year">2012</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #0a192f, #112240);">
+                        <span style="font-size: 3rem;">🏴‍☠️</span>
+                    </div>
+                    <h3>Assassin's Creed IV: Black Flag</h3>
+                    <p>Golden Age of Piracy - Edward Kenway becomes a pirate Assassin in the Caribbean.</p>
+                    <span class="game-year">2013</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #1a1a2e, #4a4a8a);">
+                        <span style="font-size: 3rem;">🎭</span>
+                    </div>
+                    <h3>Assassin's Creed Unity</h3>
+                    <p>French Revolution - Arno Dorian seeks revenge during the Reign of Terror in Paris.</p>
+                    <span class="game-year">2014</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #2c2c2c, #4a4a4a);">
+                        <span style="font-size: 3rem;">🎩</span>
+                    </div>
+                    <h3>Assassin's Creed Syndicate</h3>
+                    <p>Industrial Revolution - Jacob and Evie Frye fight to liberate Victorian London.</p>
+                    <span class="game-year">2015</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #b8860b, #daa520);">
+                        <span style="font-size: 3rem;">🐫</span>
+                    </div>
+                    <h3>Assassin's Creed Origins</h3>
+                    <p>Ancient Egypt - Bayek and Aya establish the Hidden Ones, the first Assassin Brotherhood.</p>
+                    <span class="game-year">2017</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #4169e1, #6495ed);">
+                        <span style="font-size: 3rem;">⚡</span>
+                    </div>
+                    <h3>Assassin's Creed Odyssey</h3>
+                    <p>Ancient Greece - Choose between Alexios or Kassandra in the Peloponnesian War.</p>
+                    <span class="game-year">2018</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #4a5568, #718096);">
+                        <span style="font-size: 3rem;">🪓</span>
+                    </div>
+                    <h3>Assassin's Creed Valhalla</h3>
+                    <p>Viking Era - Eivor leads their clan to settle in Anglo-Saxon England.</p>
+                    <span class="game-year">2020</span>
+                </div>
+                
+                <div class="game-card">
+                    <div class="game-image" style="background: linear-gradient(135deg, #8b4513, #a0522d);">
+                        <span style="font-size: 3rem;">🗡️</span>
+                    </div>
+                    <h3>Assassin's Creed Mirage</h3>
+                    <p>Baghdad in the 9th Century - Basim Ibn Ishaq's journey to become an Assassin.</p>
+                    <span class="game-year">2023</span>
+                </div>
+            </div>
+        </section>
+        
+        <section id="characters">
+            <h2>🦅 Iconic Characters</h2>
+            <div class="characters-grid">
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #c41e3a, #8b0000);">
+                        <span style="font-size: 3.5rem;">🥷</span>
+                    </div>
+                    <h3>Altaïr ibn La-Ahad</h3>
+                    <p class="game-title">Assassin's Creed (2007)</p>
+                    <p>The Master Assassin who redesigned the Assassin Order and sought redemption after losing the Apple of Eden.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #2c1810, #5d3a1a);">
+                        <span style="font-size: 3.5rem;">🤺</span>
+                    </div>
+                    <h3>Ezio Auditore da Firenze</h3>
+                    <p class="game-title">AC II, Brotherhood, Revelations (2009-2011)</p>
+                    <p>The beloved Italian Assassin who grew from a revenge-driven youth into a wise Master Assassin and Mentor.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #1a3a1a, #228b22);">
+                        <span style="font-size: 3.5rem;">🏹</span>
+                    </div>
+                    <h3>Connor (Ratonhnhaké:ton)</h3>
+                    <p class="game-title">Assassin's Creed III (2012)</p>
+                    <p>A Mohawk warrior who fought for freedom during the American Revolution while caught between worlds.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #0a192f, #1a3a5c);">
+                        <span style="font-size: 3.5rem;">🏴‍☠️</span>
+                    </div>
+                    <h3>Edward Kenway</h3>
+                    <p class="game-title">Assassin's Creed IV: Black Flag (2013)</p>
+                    <p>A Welsh privateer who became one of the most fearsome pirates of the Golden Age and an Assassin.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #1a1a2e, #4a4a8a);">
+                        <span style="font-size: 3.5rem;">🎩</span>
+                    </div>
+                    <h3>Arno Dorian</h3>
+                    <p class="game-title">Assassin's Creed Unity (2014)</p>
+                    <p>A French Assassin seeking vengeance during the French Revolution while uncovering Templar conspiracy.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #2c2c2c, #5a5a5a);">
+                        <span style="font-size: 3.5rem;">👺</span>
+                    </div>
+                    <h3>Jacob Frye</h3>
+                    <p class="game-title">Assassin's Creed Syndicate (2015)</p>
+                    <p>The cunning leader of the London Rooks who used street gangs to liberate Victorian London from Templar control.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #b8860b, #daa520);">
+                        <span style="font-size: 3.5rem;">🦅</span>
+                    </div>
+                    <h3>Bayek</h3>
+                    <p class="game-title">Assassin's Creed Origins (2017)</p>
+                    <p>The Medjay from Siwa who co-founded the Hidden Ones, the precursor to the Assassin Brotherhood.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #8b0000, #dc143c);">
+                        <span style="font-size: 3.5rem;">🛡️</span>
+                    </div>
+                    <h3>Kassandra</h3>
+                    <p class="game-title">Assassin's Creed Odyssey (2018)</p>
+                    <p>The legendary Spartan mercenary who discovered the truth of her bloodline and shaped Greek history.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #4a5568, #718096);">
+                        <span style="font-size: 3.5rem;">🪓</span>
+                    </div>
+                    <h3>Eivor</h3>
+                    <p class="game-title">Assassin's Creed Valhalla (2020)</p>
+                    <p>The Viking raider who led their clan to settle in England and became a legend of the age.</p>
+                </div>
+                
+                <div class="character-card">
+                    <div class="character-image" style="background: linear-gradient(135deg, #8b4513, #cd853f);">
+                        <span style="font-size: 3.5rem;">🗡️</span>
+                    </div>
+                    <h3>Basim Ibn Ishaq</h3>
+                    <p class="game-title">Assassin's Creed Mirage (2023)</p>
+                    <p>A street thief in Baghdad who joins the Hidden Ones and uncovers his mysterious past.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2026 Assassin's Creed Fan Website. All rights belong to Ubisoft.</p>
+            <p class="disclaimer">This is a fan-made website for educational purposes. Assassin's Creed is a registered trademark of Ubisoft.</p>
+            <div class="creed">
+                <p><em>""What is a man but the sum of his memories? We are the stories we live, the tales we tell ourselves." (Clay Kaczmarek)"</em></p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
